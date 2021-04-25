@@ -1,0 +1,8 @@
+.stats {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(205, 238, 248);
+  border-radius: 0px 0px 4px 4px;
+}

@@ -1,0 +1,28 @@
+.descriprion {
+  padding: 20px;
+  text-align: center;
+}
+
+.avatar {
+  width: 50%;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.tag {
+  font-size: 18px;
+  color: #9b9595;
+  margin-bottom: 10px;
+}
+
+.location {
+  font-size: 18px;
+  color: #9b9595;
+}
